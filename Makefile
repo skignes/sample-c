@@ -9,7 +9,7 @@ SRC	=	src/main.c
 
 OBJ	=	$(SRC:.c=.o)
 
-EXEC	=	main
+EXEC	=	compiled-app
 
 CC	=	gcc
 
