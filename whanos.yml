@@ -13,6 +13,6 @@ deployment:
     - 8000
 
 image:
-  repository: platypouce.fr:5000/jawa
+  repository: platypouce.fr/jawa
   tag: latest
   name: jawa
