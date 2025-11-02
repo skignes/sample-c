@@ -11,3 +11,8 @@ deployment:
 
   ports:
     - 8000
+
+image:
+  repository: 127.0.0.1:5000/jawa
+  tag: latest
+  name: jawa
