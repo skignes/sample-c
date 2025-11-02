@@ -13,6 +13,6 @@ deployment:
     - 8000
 
 image:
-  repository: 127.0.0.1:5000/jawa
+  repository: 90.119.178.140:5000/jawa
   tag: latest
   name: jawa
