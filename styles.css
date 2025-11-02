@@ -1,0 +1,9 @@
+/* Minimal styles for the sample site */
+:root{ --bg:#f6f8fa; --accent:#0366d6; --text:#24292e }
+body{font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:var(--bg); color:var(--text); margin:0; padding:2rem}
+header{max-width:720px;margin:0 auto 1.5rem;padding:1rem 0}
+h1{color:var(--accent);margin:0 0 .25rem}
+.lead{margin:0 0 1rem;color:#555}
+button{background:var(--accent);color:white;border:0;padding:.5rem 1rem;border-radius:6px;cursor:pointer}
+button:hover{opacity:.95}
+section{background:white;padding:1rem;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,.06);max-width:720px;margin:0 auto}
