@@ -11,8 +11,3 @@ deployment:
 
   ports:
     - 8080
-
-image:
-  repository: www.skignes.fr/jawa
-  tag: latest
-  name: jawa
