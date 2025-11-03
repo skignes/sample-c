@@ -2,7 +2,7 @@
   "name": "simple-website",
   "version": "1.0.0",
   "description": "A tiny static website scaffold (HTML/CSS/JS) for demo",
-  "main": "src/index.js",
+  "main": "index.html",
   "scripts": {
     "start": "npx http-server ./ -p 8000 --silent"
   },
